@@ -1,6 +1,6 @@
-package steps;
+package api.steps;
 
-import Api.DeckOfCardsApi;
+import api.DeckOfCardsApi;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
